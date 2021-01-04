@@ -1,5 +1,5 @@
-Resume for Daniel Rozenzaft, Macaulay Honors College, Class of 2021. Edited in LaTeX.
+Resume for Daniel Rozenzaft, Macaulay Honors College, Class of 2021.
 
-Access the document by viewing the resume.pdf file.
+Access the document by viewing the docx file.
 
 Thanks for reading!
